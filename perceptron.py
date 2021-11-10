@@ -1,6 +1,6 @@
 """
 implementation of backpropagation network as described in
-http://ufldl.stanford.edu/wiki/index.php/Backpropagation_Algorithm
+http://deeplearning.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 """
 import sklearn
 import numpy as np
